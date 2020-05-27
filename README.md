@@ -7,7 +7,7 @@ For this Kata I practiced Test Driven Development by completed another FizzBuzz 
 
 ## Testing Notes:
 1. Red, Green, Refactor
-2. Write the tests in test_fissbuzz.py and the 'production' code in fizzbuzz.py
+2. Write the tests in test_fizzbuzz.py and the 'production' code in fizzbuzz.py
 3. It is ideal to write the smallest amount of code you can to make the test pass.
 4. The names of the tests should also be named as testing functionality (ex.'test_fizz') never 'divisible_by_three'. 
 
